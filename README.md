@@ -6,7 +6,7 @@ Analisa dari kodingan ini juga dimuat di akun medium penulis.
 ### Detail task
 data exploration,
 modeling, dan
-evaluation
+evaluation.
 
 ### Saran perbaikan
 Analisa dan codingan ini masih memiliki banyak kekurangan. Koreksi dan saran diharapkan agar saya dapat belajar lebih baik.
