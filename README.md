@@ -4,8 +4,8 @@ Project ini dibuat ini memebuhi tugas project intro to machine learning di pacma
 Analisa dari kodingan ini juga dimuat di akun medium penulis. 
 
 ### Detail task
-data exploration
-modeling 
+data exploration,
+modeling, 
 evaluation
 
 ### Saran perbaikan
