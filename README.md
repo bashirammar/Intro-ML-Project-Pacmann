@@ -5,7 +5,7 @@ Analisa dari kodingan ini juga dimuat di akun medium penulis.
 
 ### Detail task
 data exploration,
-modeling, 
+modeling, dan
 evaluation
 
 ### Saran perbaikan
